@@ -1,3 +1,5 @@
+package desafioBase;
+
 import java.util.Scanner;
 
 class Duracao {
